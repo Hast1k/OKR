@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Day 7:
 Misha ne sharit za 6 7
+=======
+Day 6:
+Para kinchylas, syzhu grushchu
+>>>>>>> b830200 (New change)
