@@ -4,6 +4,10 @@ Day 5:
 Misha zlytsya na gumennu
 Day 9:
 Dyvlius anime basketbol kuroko
+<<<<<<< HEAD
 Day 5:
 Misha pomig vyity z git commit
 
+=======
+'
+>>>>>>> dev
