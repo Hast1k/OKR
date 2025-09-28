@@ -2,10 +2,10 @@ Day 3:
 Misha pereishov na dobryi vaib
 Day 5:
 Misha zlytsya na gumennu
-<<<<<<< HEAD
+
 Day 9:
 Dyvlius anime basketbol kuroko
 =======
 Day 5:
 Misha pomig vyity z git commit
->>>>>>> 7d639ff (Commit - 1)
+
